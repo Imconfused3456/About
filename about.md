@@ -14,5 +14,5 @@ I am trying to learn:
   <li>PHP</li>
   <li>SQL</li>
 </ol>
-# <h3>Contact</h3>
+<h3>Contact</h3>
 If you want to contact me, use my Discord: <code>Imconfused3456#2391</code>
