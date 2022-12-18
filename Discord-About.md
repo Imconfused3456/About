@@ -25,4 +25,5 @@ Misc. Languages:
   <li>Scratch</li>
   <li>Windows batch</li>
 </ul>
-# Thank you for wasting your time on my stupid crap.
+
+# Thank you for wasting your time on my stupid crap
