@@ -24,4 +24,5 @@ Misc. Languages:
   <li>Lua</li>
   <li>Scratch</li>
   <li>Windows batch</li>
-<ul>
+</ul>
+# Thank you for wasting your time on my stupid crap.
