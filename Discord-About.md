@@ -5,17 +5,22 @@ I participate in a wide variety of different servers.
 I go by <em>he/him</em>.
 I am online daily, dm me for messages.
 # Why I am on GitHub
-I am a programmer ("HtML is NOt A ProGRamMing lAnGuAGe" -- I know. Go back to your parents basement.) I've ranked the languages I know by my skill:
-<ol>
-  <li>Python</li>
+I am now a fullstack developer! Can I do your crap for you? Maybe. DM me.
+Front-End languages I know:
+<ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Lua</li>
-  <li>Windows batch (I guess)</li>
-</ol>
-I am trying to learn:
-<ol>
+</ul>
+Back-End languages I know:
+<ul>
+  <li>Python</li>
   <li>PHP</li>
-  <li>SQL</li>
-</ol>
+  <li>SQL (Small Bit)</li>
+</ul>
+Misc. Languages:
+<ul>
+  <li>Lua</li>
+  <li>Scratch</li>
+  <li>Windows batch</li>
+<ul>
